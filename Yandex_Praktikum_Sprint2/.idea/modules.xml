@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alice_photo/Alice_photo.iml" filepath="$PROJECT_DIR$/Alice_photo/Alice_photo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bus_tickets/Bus_tickets.iml" filepath="$PROJECT_DIR$/Bus_tickets/Bus_tickets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CatDiet/CatDiet.iml" filepath="$PROJECT_DIR$/CatDiet/CatDiet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstrictionAndExtention_primitives/ConstrictionAndExtention_primitives.iml" filepath="$PROJECT_DIR$/ConstrictionAndExtention_primitives/ConstrictionAndExtention_primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Moscow-Paris/Moscow-Paris.iml" filepath="$PROJECT_DIR$/Moscow-Paris/Moscow-Paris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rainy_Day/Rainy_Day.iml" filepath="$PROJECT_DIR$/Rainy_Day/Rainy_Day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scooter_rent/Scooter_rent.iml" filepath="$PROJECT_DIR$/Scooter_rent/Scooter_rent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper_classes/Wrapper_classes.iml" filepath="$PROJECT_DIR$/Wrapper_classes/Wrapper_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Yandex_Praktikum_Sprint2.iml" filepath="$PROJECT_DIR$/.idea/Yandex_Praktikum_Sprint2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers-day/programmers-day.iml" filepath="$PROJECT_DIR$/programmers-day/programmers-day.iml" />
+    </modules>
+  </component>
+</project>
